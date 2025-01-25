@@ -57,6 +57,15 @@ O site **Justly** foi criado para oferecer uma interface elegante e funcional, c
 
 ---
 
+## 🌍 Acesse o Projeto
+
+Você pode acessar o projeto online clicando no link abaixo:
+
+[👉 Justly Escritório de Advocacia ⚖️](https://erik-projeto-justly.vercel.app/)
+
+
+---
+
 ## 🧠 Como Usar
 
 ### Passo 1: Clone o repositório
